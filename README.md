@@ -1,1 +1,16 @@
-# research_papers
+Papers:
+- [] [[Gradient Episodic Memory for Continual Learning]]
+- [] [[Robotics transformer for real-world control at scale]]
+- [] [[Language models are few-shot learners]]
+- [] [[Maskgit: Masked generative image transformer]]
+- [] [[One-shot imitation learning]]
+- [] [[Generative adversarial imitation learning]]
+- [] [[Categorical reparameterization with gumbel-softmax]]
+- [] [[Swin transformer: Hierarchical vision transformer using shifted windows]]
+- [] [[A continuous relaxation of discrete random variables]]
+- [] [[Training language models to follow instructions with human feedback]]
+- [] [[Zero-shot text-to-image generation]]
+- [] [[Perceive, predict, and plan: Safe motion planning through interpretable semantic representations]]
+- [] [[Behavior transformers: Cloning k modes with one stone]]
+- [] [[Mastering the game of go with deep neural networks and tree search]]
+- [x] [[Neural discrete representation learning]]

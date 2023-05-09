@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "94b570b64db8c7bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2eaf5530823eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b34ce8baf0f5958a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4bd81a2ad50663c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c9a584045040ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e04c6e48fc6ff9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab36cb568eb91d9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44860a6656cc672d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d24a4e17764bf478",
+    "type": "split",
+    "children": [
+      {
+        "id": "b120209ae810e22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5429946db7dfc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "718d2a6471489123",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce138a9dda595cf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d16273443e7f7303",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "b34ce8baf0f5958a",
+  "lastOpenFiles": [
+    "Neural discrete representation learning.md",
+    "images/Pasted image 20230508125504.png",
+    "README.md",
+    "Gradient Episodic Memory for Continual Learning.md",
+    "Anki Test.md",
+    "test.md",
+    "templates/Paper Notes Template.md",
+    "Untitled.canvas",
+    "2023-05-08.md"
+  ]
+}

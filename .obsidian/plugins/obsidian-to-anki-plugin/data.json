@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "^Q: ((?:.+\\n)*)\\n*A: (.+(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "Basic (and reversed card)": "^Q: ((?:.+\\n)*)\\n*A: (.+(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Main Deck",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [
+    "Pasted image 20230508125504.png"
+  ],
+  "File Hashes": {
+    "Untitled.md": "530e6cc19973cfe0975bb28de1a639c4",
+    "README.md": "608193ec4da84789c632acc38fc9fe82",
+    "Anki Test.md": "fa754c56b1c856d6a9eac9cad2954c55",
+    "Neural discrete representation learning.md": "7bb6bfd854558a66531da2dcf73be820",
+    "Gradient Episodic Memory for Continual Learning.md": "69496ce499e07f66cf75f05e971453cb",
+    "templates/Paper Notes Template.md": "72f4812d8e12974c0e4ae1f0ef2d62b1"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Extra"
+    ]
+  }
+}
