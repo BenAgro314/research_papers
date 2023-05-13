@@ -1,7 +1,8 @@
 Title: Neural discrete representation learning
 Authors: #Aaron_van_den_Oord, #Oriol_Vinyals, #Koray_Kavukcuoglu
-Tags: #DeepMind  #NeurIPS #VAE
+Tags: #DeepMind  #NeurIPS #VAE #VQ-VAE
 Year: 2017
+Link: https://arxiv.org/pdf/1711.00937.pdf
 
 ## VAEs
 

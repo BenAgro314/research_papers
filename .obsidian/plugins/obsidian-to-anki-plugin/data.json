@@ -40,15 +40,23 @@
     }
   },
   "Added Media": [
-    "Pasted image 20230508125504.png"
+    "Pasted image 20230508125504.png",
+    "Pasted image 20230512200412.png",
+    "Pasted image 20230513093046.png",
+    "Pasted image 20230509124737.png"
   ],
   "File Hashes": {
     "Untitled.md": "530e6cc19973cfe0975bb28de1a639c4",
-    "README.md": "608193ec4da84789c632acc38fc9fe82",
+    "README.md": "b63568d705697b824e856629ac7a5c8e",
     "Anki Test.md": "fa754c56b1c856d6a9eac9cad2954c55",
-    "Neural discrete representation learning.md": "7bb6bfd854558a66531da2dcf73be820",
+    "Neural discrete representation learning.md": "90cf5c4b19c63e9bce49fc0d4b60f532",
     "Gradient Episodic Memory for Continual Learning.md": "69496ce499e07f66cf75f05e971453cb",
-    "templates/Paper Notes Template.md": "72f4812d8e12974c0e4ae1f0ef2d62b1"
+    "templates/Paper Notes Template.md": "b02bd33433959d6d07d2d15b5751d428",
+    "Categorical reparameterization with gumbel-softmax.md": "bf70df21d26a551c57699607995f13b1",
+    "One-shot imitation learning.md": "b847e362ae127f69fb3c27cd6140e580",
+    "Behavior transformers; Cloning k modes with one stone.md": "aac7cd312520ba56414ed6274da6ec69",
+    "Robotics transformer for real-world control at scale.md": "6331435fffc648fcafaeaea3b8beae6c",
+    "Language models are few-shot learners.md": "d41d8cd98f00b204e9800998ecf8427e"
   },
   "fields_dict": {
     "Basic": [
