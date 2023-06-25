@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6690e232372f77",
+        "id": "29bf59779d6b82ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f2391fdd7da88c",
+            "id": "5cae9f024d158449",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "6d8332a054b97589",
+            "id": "e2fbb14fe33c9840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language models are few-shot learners.md",
+                "file": "paper notes/Spinning up in deep RL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80964750e6fdabd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper notes/Takeaways from DeepMind's RoboCat Paper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OpenAI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,9 +89,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "46a0b89ca3321eba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "paper notes/Takeaways from DeepMind's RoboCat Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "paper notes/Takeaways from DeepMind's RoboCat Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "paper notes/Takeaways from DeepMind's RoboCat Paper.md"
               }
             }
           }
@@ -160,17 +180,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "f7f2391fdd7da88c",
+  "active": "80964750e6fdabd9",
   "lastOpenFiles": [
-    "Language models are few-shot learners.md",
     "README.md",
-    "Robotics transformer for real-world control at scale.md",
-    "One-shot imitation learning.md",
-    "Behavior transformers; Cloning k modes with one stone.md",
-    "Categorical reparameterization with gumbel-softmax.md",
-    "Gradient Episodic Memory for Continual Learning.md",
-    "Neural discrete representation learning.md",
+    "paper notes/Takeaways from DeepMind's RoboCat Paper.md",
+    "paper notes/Spinning up in deep RL.md",
+    "RL.md",
+    "paper notes/PPO.md",
+    "paper notes/A2C.md",
+    "A3C.md",
+    "images/Pasted image 20230607212416.png",
+    "paper notes/A2C / A3C.md",
+    "paper notes/A2C ",
+    "images/Pasted image 20230613221604.png",
+    "paper notes/Reimagining an autonomous vehicle.md",
+    "paper notes/MILE; Model Based Imitation Learning.md",
+    "paper notes/World Models.md",
+    "paper notes/FIERY.md",
+    "paper notes/Robotics transformer for real-world control at scale.md",
+    "paper notes/One-shot imitation learning.md",
+    "images/Pasted image 20230606093929.png",
+    "paper notes",
+    "images/Pasted image 20230606093921.png",
+    "images/Pasted image 20230606093529.png",
+    "images/Pasted image 20230606093424.png",
+    "images/Pasted image 20230606093344.png",
+    "images/Screen Shot 2023-06-03 at 7.34.52 PM.png",
+    "images/Pasted image 20230603192649.png",
+    "paper notes/Mastering Atari with Discrete World Models (Dreamer V2).md",
+    "images/Pasted image 20230602111749.png",
+    "paper notes/Hierarchical Text-Conditional Image Generation with CLIP Latents.md",
+    "paper notes/Gradient Episodic Memory for Continual Learning.md",
+    "paper notes/Mastering the game of go with deep neural networks and tree search.md",
+    "paper notes/Neural discrete representation learning.md",
+    "paper notes/Taming Transformers for High-Resolution Image Synthesis.md",
+    "paper notes/Towards Unsupervised Object Detection From LiDAR Point Clouds.md",
+    "paper notes/Zero-shot text-to-image generation.md",
+    "paper notes/Deep Learning for AI (Turing Lecture).md",
     "templates/Paper Notes Template.md",
-    "images/Pasted image 20230508125504.png"
+    "paper notes/Maskgit; Masked generative image transformer.md"
   ]
 }
