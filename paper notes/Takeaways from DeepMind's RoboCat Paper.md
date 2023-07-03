@@ -1,4 +1,4 @@
-Title: Takeaways from DeepMind's RoboCat Paper
+Title: Takeaways from DeepMind's RoboCat PaperLl 
 Authors: #Eric_Jang 
 Tags: #DeepMind 
 Year: 2023
@@ -19,4 +19,6 @@ Tried and true recipe: Cast everything into tokens (language instructions, visio
 
 Q: What is the difference between *generalization* and *transfer*
 A: Generalization: How does an agent perform on task B when it was trained on task A, where A and B are different in some way. Transfer: How does an agent perform on task B, when trained on task A and finetuned on task B.
+<!--ID: 1687702914748-->
+
 

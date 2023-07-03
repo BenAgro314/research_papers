@@ -33,7 +33,21 @@
 - [x] [[Reimagining an autonomous vehicle]]
 - [x] [[World Models]]
 - [] [[Voyager: An Open-Ended Embodied Agent with Large Language Models]]
-- [] [[Takeaways from DeepMind's RoboCat Paper]]
+- [x] [[Takeaways from DeepMind's RoboCat Paper]]
+- [x] [[Distilling the Knowledge in a Neural Network]]
+- [ ] [[Offline Reinforcement Learning as One Big Sequence Modeling Problem]]
+- [x] [[Learning Quadrupedal Locomotion over Challenging Terrain]]
+- [x] [[Learning by Cheating]]
+- [ ] [[Learning to drive from a world on rails]]
+- [ ] [[Learning From All Vehicles]]
+- [ ] [[Offline RL: Tutorial Review, and Perspectives on Open Problems]]
+- [ ] [[Rainbow: Combining Improvements in Deep Reinforcement Learning]]
+
+
+
+
+
+
 
 ### CPVR 2023 List
 
@@ -43,7 +57,7 @@
 - [ ] [[Learning To Zoom and Unzoom]]
 - [ ] [[Distilling Neural Fields for Real-Time Articulated Shape Reconstruction]]
 - [ ] [[Reconstructing Animatable Categories From Videos]]
-- [ ] [[Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting]]
+- [x] [[Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting]]
 - [ ] [[Pix2map: Cross-Modal Retrieval for Inferring Street Maps From Images]]
 - [ ] [[3D-Aware Conditional Image Synthesis]]
 - [ ] [[SUDS: Scalable Urban Dynamic Scenes]]
@@ -52,8 +66,8 @@
 
 #### Andreas Geiger
 
-- [ ] [[Hidden Biases of End-to-End Driving Model]]
-- [ ] [[Parting with Misconceptions about Learning-based Vehicle Motion Planning]]
+- [x] [[Hidden Biases of End-to-End Driving Model]]
+- [x] [[Parting with Misconceptions about Learning-based Vehicle Motion Planning]]
 
 #### Waymo / Drago Papers
 
@@ -61,7 +75,7 @@
 - [ ] [[GINA-3D: Learning To Generate Implicit Neural Assets in the Wild]]
 - [ ] [[3D Human Keypoints Estimation From Point Clouds in the Wild Without Human Labels]]
 - [ ] [[MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion]]
-- [ ] [[MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences]]
+- [x] [[MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences]]
 - [ ] [[LidarAugment: Searching for Scalable 3D LiDAR Data Augmentations]]
 
 ## Concepts
@@ -92,5 +106,13 @@
 	- [] [[# High-Dimensional Continuous Control Using Generalized Advantage Estimation]]
 
 	
-   
+## Courses
+
+
+### Berkeley 
+
+[[CSC 182]]
+
+
+
 
