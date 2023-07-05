@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "29bf59779d6b82ef",
+        "id": "f20c05002e1c773e",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb6fb846c3aa1e1",
+            "id": "eaab8d16bf7be081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Paper Notes Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdac0b1a8650fc26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper notes/Learning to drive from a world on rails.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper notes/Learning to drive from a world on rails.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper notes/Learning to drive from a world on rails.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper notes/Learning to drive from a world on rails.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,15 +155,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "c3e04c6e48fc6ff9",
+  "active": "eaab8d16bf7be081",
   "lastOpenFiles": [
+    "On Calibration of Modern Neural Networks.md",
+    "README.md",
+    "Offline RL; Tutorial Review, and Perspectives on Open Problems.md",
+    "RL.md",
+    "paper notes/Learning From All Vehicles.md",
     "templates/Paper Notes Template.md",
     "paper notes/Learning to drive from a world on rails.md",
-    "README.md",
-    "paper notes/Learning From All Vehicles.md",
     "paper notes/Learning by Cheating.md",
     "paper notes/Learning Quadrupedal Locomotion over Challenging Terrain.md",
-    "RL.md",
     "paper notes/Distilling the Knowledge in a Neural Network.md",
     "paper notes/Offline Reinforcement Learning as One Big Sequence Modeling Problem.md",
     "paper notes/Takeaways from DeepMind's RoboCat Paper.md",
@@ -199,8 +188,6 @@
     "paper notes/A2C / A3C.md",
     "paper notes/A2C ",
     "images/Pasted image 20230613221604.png",
-    "paper notes/Reimagining an autonomous vehicle.md",
-    "paper notes/MILE; Model Based Imitation Learning.md",
     "images/Pasted image 20230606093929.png",
     "paper notes",
     "images/Pasted image 20230606093921.png",

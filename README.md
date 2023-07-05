@@ -38,14 +38,18 @@
 - [ ] [[Offline Reinforcement Learning as One Big Sequence Modeling Problem]]
 - [x] [[Learning Quadrupedal Locomotion over Challenging Terrain]]
 - [x] [[Learning by Cheating]]
-- [ ] [[Learning to drive from a world on rails]]
-- [ ] [[Learning From All Vehicles]]
-- [ ] [[Offline RL: Tutorial Review, and Perspectives on Open Problems]]
-- [ ] [[Rainbow: Combining Improvements in Deep Reinforcement Learning]]
-
-
-
-
+- [x] [[Learning to drive from a world on rails]]
+- [x] [[Learning From All Vehicles]]
+- [ ] [[Offline RL; Tutorial Review, and Perspectives on Open Problems]]
+- [ ] [[Deconvolution and Checkerboard Artifacts]] (Distill)
+- [ ] [[Feature Visualization]] (Distill)
+- [ ] [[The Building Blocks of Interpretability]] (Distill)
+- [ ] [[Zoom In: An Introduction to Circuits]] (Distlil)
+- [ ] [[Multimodal Neurons in Artificial Neural Networks]] (Distill)
+- [ ] [[A Mathematical Framework for Transformer Circuits]] (Distill)
+- [ ] [[Concrete Problems in AI Safety]]
+- [ ] [[Grokking; Generalization Beyond Overfitting on small Algorithmic Datasets]]
+- [ ] [[On Calibration of Modern Neural Networks]]
 
 
 
@@ -112,6 +116,7 @@
 ### Berkeley 
 
 [[CSC 182]]
+
 
 
 
